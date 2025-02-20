@@ -66,4 +66,4 @@ gem "rqrcode", "~> 2.2"
 
 gem "tailwindcss-ruby", "~> 4.0"
 
-gem "tailwindcss-rails", "~> 3.3"
+gem "tailwindcss-rails", "~> 4.1"
